@@ -4,7 +4,7 @@ import csv
 #
 # ARTIST_NAME = "Brandi Carlile"
 #
-# d = discogs_client.Client('ExampleApplication/1.0', user_token='nsCPnrovJpBJHqgIEyeNhZpeJBfEZkvKukxBaOVm')
+# d = discogs_client.Client('ExampleApplication/1.0', user_token='REDACTED')
 #
 # # Run search query for artist to get the artist ID
 # results = d.search(query=ARTIST_NAME, type='artist')

@@ -18,7 +18,7 @@ class BarcodeSandbox:
         :param barcode:
         :return:
         """
-        d = discogs_client.Client('ExampleApplication/1.0', user_token='nsCPnrovJpBJHqgIEyeNhZpeJBfEZkvKukxBaOVm')
+        d = discogs_client.Client('ExampleApplication/1.0', user_token='REDACTED')
 
         # results_two = d.search(query=BARCODE, type='barcode')
         # album_info_dictionary = {}
